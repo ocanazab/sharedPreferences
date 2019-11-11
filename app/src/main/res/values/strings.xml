@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sharedPreferences</string>
+    <string name="txtMail">Introduzca su e-mail</string>
+    <string name="btnEjecutar">Ejecutar</string>
+</resources>
